@@ -34,7 +34,7 @@ end
 local Config = {
     Enabled = false,
     FarmDamage = false,
-    AttackSpeed = 0.02,
+    AttackSpeed = 0.1,
     ScanRange = 100,
     RetreatHP = 30,   -- บินหนีเมื่อมอน HP ≤ 30%
     ResumeHP = 90,    -- ลงมาสู้เมื่อมอน HP ≥ 90%
